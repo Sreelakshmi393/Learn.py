@@ -1,0 +1,6 @@
+name = input("Enter your name : ")
+age = input("Enter your age : ")
+designation = input("Your current status : ")
+print("My name is", name)
+print("I'm",age,"years old")
+print("Currently I'm a",designation)
